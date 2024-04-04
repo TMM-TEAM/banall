@@ -31,8 +31,8 @@ filters.command("start")
 )
 async def start_command(client, message: Message):
   await message.reply_photo(
-                            photo = f"https://telegra.ph/file/fff2ee6f504bc061cb7d3.jpg",
-                            caption = f"ʜᴇʏ, ᴛʜɪs ɪs ᴀ sɪᴍᴘʟᴇ ʙᴀɴ ᴀʟʟ ʙᴏᴛ ᴡʜɪᴄʜ ɪs ʙᴀsᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ʟɪʙᴇʀᴀʀʏ ᴛᴏ ʙᴀɴ ᴏʀ ᴅᴇsᴛʀᴏʏ ᴀʟʟ ᴛʜᴇ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ɪɴ ᴀ ғᴇᴡ  sᴇᴄᴏɴᴅs!\n\nᴛᴏ ᴄʜᴇᴄᴋ ᴍʏ ᴀʙɪʟɪᴛʏ ɢɪʙ me ғᴜʟʟ ᴘᴏᴡᴇʀs\n\nᴛʏᴘᴇ /ʙᴀɴᴀʟʟ ᴛᴏ ꜱᴇᴇ ᴍᴀɢɪᴄ ɪɴ ɢʀᴏᴜᴘ.",
+                            photo = f"https://telegra.ph/file/b26847056f19c1b5d7712.jpg",
+                            caption = f"Hᴇʏ! ɪ ᴀᴍ Hᴏʀɴʏ Gɪʀʟ Aɪ Cʜᴀᴛ ʙᴏᴛ🤤🔥\n⚠️Nᴏᴛᴇ: Usᴇ Tʜɪs Bᴏᴛ Fᴏʀ Eɴɪᴏʏᴍᴇɴᴛ Pᴜʀᴘᴏsᴇ & Dɪғғᴇʀᴇɴᴛ Kɪɴᴅs Oғ Hᴇʟᴘ Bʏ Aɪ!",
   reply_markup=InlineKeyboardMarkup(
             [
                 [
