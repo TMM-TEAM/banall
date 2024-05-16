@@ -3,7 +3,7 @@
     "description": "Hᴇʏ! ɪ ᴀᴍ Hᴏʀɴʏ Gɪʀʟ Aɪ Cʜᴀᴛ ʙᴏᴛ",
     "logo": "https://telegra.ph/file/b26847056f19c1b5d7712.jpg",
     "keywords": ["ᴋɪsᴀɴ-ʀᴀᴠɪ", "ʙᴀɴ-ᴀʟʟ"],
-    "repository": "https://github.com/TMM-TEAM/sumanlodaban",
+    "repository": "https://github.com/TMM-TEAM/banall",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
